@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928022302392",
+    "firebase_url": "https://budget-app-fd569.firebaseio.com",
+    "project_id": "budget-app-fd569",
+    "storage_bucket": "budget-app-fd569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928022302392:android:3d7fb6693e4d4258bc6e4d",
+        "android_client_info": {
+          "package_name": "com.budget.budgetcents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928022302392-a5h1jp03lba9r48qi3iaffv2c89mq24s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcqvwdb74bU23JzQkO6hVBDwjIWlq3dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928022302392-a5h1jp03lba9r48qi3iaffv2c89mq24s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928022302392-ou6i1o43groumn313fj5g9nko3iuu4rr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dudedeveloper.budgetapps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
